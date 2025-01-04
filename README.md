@@ -1,6 +1,6 @@
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/devxb/gitanimals?contribution-view=false">
 <img
-  src="https://render.gitanimals.org/farms/kmhayeon?contribution-view=false"
+  src="https://render.gitanimals.org/farms/kmhayeon"
   width="600"
   height="300"
 />
