@@ -1,4 +1,4 @@
-<a href="https://github.com/devxb/gitanimals?contribution-view=false">
+<a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/kmhayeon"
   width="600"
