@@ -3,7 +3,7 @@
     position: relative;
     width: 600px;
     height: 300px;
-    background-image: url('https://static.gitanimals.org/backgrounds/SNOWY_FIELD');
+    background-image: url('https://static.gitanimals.org/backgrounds/GRASS_FIELD');
     background-size: cover;
     background-position: center;
   "
@@ -19,4 +19,3 @@
     />
   </a>
 </div>
-
